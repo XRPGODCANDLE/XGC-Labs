@@ -1,4 +1,4 @@
-[![Visit our GitBook](assets/header_github.png)]
+![Visit our GitBook](assets/header_github.png)
 
 # 🌟 **XGC Labs - Innovating on the XRPL**
 
