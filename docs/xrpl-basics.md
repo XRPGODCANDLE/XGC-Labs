@@ -1,6 +1,6 @@
 
 #### `xrpl-basics.md`
-```markdown
+
 # XRPL Basics
 Key concepts of XRPL:
 - **Accounts**: Unique identifiers for users.

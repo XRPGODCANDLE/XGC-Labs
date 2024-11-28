@@ -10,7 +10,7 @@ Learn how to set up and start using XRPL and the XGC token.
 ## Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-org/XGC-Labs.git
+   git clone https://github.com/XRPGODCANDLE/XGC-Labs.git
    cd XGC-Labs
 
 2. Navigate to the examples/ folder and try the scripts.
