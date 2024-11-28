@@ -1,3 +1,5 @@
+[![Visit our GitBook](assets/header_github.png)]
+
 # 🌟 **XGC Labs - Innovating on the XRPL**
 
 Welcome to the official repository of **XGC Labs**, the innovation hub behind the **XGC token**. Our mission is to simplify and accelerate the adoption of the **XRPL (XRP Ledger)** blockchain by providing tools, resources, and practical examples for the developer community.
@@ -41,6 +43,9 @@ At **XGC Labs**, we believe in building together. Whether you're a seasoned deve
 - **Contribute** to our open-source projects.
 - **Collaborate** with others on innovative XRPL-based applications.
 - **Share feedback** and help us improve our tools and tutorials.
+
+## 🌟 Visit our GitBook
+For comprehensive documentation, guides, and tutorials, visit our [GitBook here](https://xgc.gitbook.io/xgc-labs).
 
 ---
 
